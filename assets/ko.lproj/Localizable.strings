@@ -1,0 +1,7 @@
+/* 
+  Localizable.strings
+  MilkChoco
+*/
+"JailbreakTitle" = "탈옥 탐지";
+"JailbreakMessage" = "탈옥된 디바이스에서는 밀크초코를 실행 할 수 없습니다. 도움이 필요한 경우 이메일로 연락주시기 바랍니다.\nEmail: angel@gameparadiso.com";
+
